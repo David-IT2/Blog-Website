@@ -1,5 +1,7 @@
 MyBlog - Personal Blog Website
+
 Overview
+
 MyBlog is a responsive personal blog website featuring multiple pages including Home, About, Contact, and a sample Blog Post. The site showcases modern web design principles with clean typography, responsive layouts, and interactive elements.
 
 Features
