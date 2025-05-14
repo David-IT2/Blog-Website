@@ -5,6 +5,7 @@ Overview
 MyBlog is a responsive personal blog website featuring multiple pages including Home, About, Contact, and a sample Blog Post. The site showcases modern web design principles with clean typography, responsive layouts, and interactive elements.
 
 Features
+
 Pages
 Home Page: Main landing page with navigation
 
@@ -41,6 +42,8 @@ Responsive design principles
 CSS Grid and Flexbox for layouts
 
 File Structure
+
+
 myblog/
 ├── index.html          # Home page
 ├── about.html          # About page
