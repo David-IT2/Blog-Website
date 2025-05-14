@@ -41,18 +41,6 @@ Responsive design principles
 
 CSS Grid and Flexbox for layouts
 
-File Structure
-
-
-myblog/
-├── index.html          # Home page
-├── about.html          # About page
-├── contact.html        # Contact page
-├── post.html           # Sample blog post
-├── css/
-│   └── style.css       # Main stylesheet
-└── js/
-    └── script.js       # JavaScript functionality
 Installation
 No installation required - these are static HTML files that can be opened directly in any modern web browser.
 
